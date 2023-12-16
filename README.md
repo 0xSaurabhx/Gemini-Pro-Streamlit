@@ -1,6 +1,6 @@
-# UltraGPT - Gemini AI Chat
+# Gemini Pro Chat
 
-UltraGPT is a Streamlit web application powered by the Gemini AI Chat model. This application allows users to interact with a generative language model for chat-based conversations.
+Gemini Pro Chat is a Streamlit web application powered by the Gemini AI Chat model. This application allows users to interact with a generative language model for chat-based conversations.
 
 ## Table of Contents
 
