@@ -40,7 +40,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("Gemini AI Chat")
+st.title("Care Guardian AI")
 
 # Initialize chat history
 if "messages" not in st.session_state:
