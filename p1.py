@@ -41,8 +41,6 @@ st.set_page_config(
 )
 
 st.title("Gemini AI Chat")
-st.markdown('By [Saurabh](https://linkedin.com/in/dev-saurabh)')
-
 
 # Initialize chat history
 if "messages" not in st.session_state:
